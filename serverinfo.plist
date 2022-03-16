@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SERVERSECUREPORT</key>
+	<string>8383</string>
+	<key>productcode</key>
+	<string>DCEE</string>
+	<key>INSTALLTIME</key>
+	<string>1647349786</string>
+	<key>UEMSProductCode</key>
+	<string>[DCEE]</string>
+	<key>DATA_TRANSFER_RATE</key>
+	<string>0</string>
+	<key>REMOTEOFFICEID</key>
+	<string>1</string>
+	<key>MSIRESTARTMANAGERCONTROL</key>
+	<string>Disable</string>
+	<key>SERVERNAME</key>
+	<string>IE-ROC-1.centerline.net</string>
+	<key>VALUE2</key>
+	<string>7c37f307b96ac55946119ceb7e0dead8</string>
+	<key>MSPNAME</key>
+	<string>DC_MSP</string>
+	<key>VALUE1</key>
+	<string>9736d2967662f2381384c8ec364777201a3c148673b56df7e244b3e0229bc9be17e4a8e715c425dad88b483710a6ad6b</string>
+	<key>AUTODETECT_PROXY</key>
+	<string>false</string>
+	<key>AGENTVERSION</key>
+	<string>10.1.2138.5.M</string>
+	<key>ALLUSERS</key>
+	<string>1</string>
+	<key>SERVERIPADDRESS</key>
+	<string>10.17.2.115</string>
+	<key>CUSTOMERID</key>
+	<string>1</string>
+	<key>ENABLEREMOTEOFFICEMGMT</key>
+	<string>no</string>
+	<key>ENABLESILENT</key>
+	<string>YES</string>
+	<key>PERFORMPATCHSCAN</key>
+	<string>yes</string>
+	<key>PROXYBYPASS</key>
+	<string></string>
+	<key>REMOTEOFFICEAUTHKEY</key>
+	<string>7c37f307b96ac55946119ceb7e0dead8</string>
+	<key>SERVERPROTOCOL</key>
+	<string>https</string>
+	<key>ENABLEDISTRIBUTIONSERVER</key>
+	<string>no</string>
+	<key>AGENTPOLLINGINTERVAL</key>
+	<string>2</string>
+	<key>SERVERPORT</key>
+	<string>8020</string>
+	<key>CUSTOMERNAME</key>
+	<string>DC_CUSTOMER</string>
+	<key>USEJSON</key>
+	<string>true</string>
+	<key>PERFORMPOSTINSTALL</key>
+	<string>yes</string>
+	<key>REMOTEOFFICENAME</key>
+	<string>Local Office</string>
+	<key>SC_VALUE</key>
+	<string>0</string>
+	<key>ENABLEPROXY</key>
+	<string>no</string>
+	<key>SERVERSECIPADDRESS</key>
+	<string>10.17.2.115</string>
+	<key>SERVERFLATNAME</key>
+	<string>IE-ROC-1</string>
+	<key>branchID</key>
+	<string>1</string>
+	<key>PERFORMASSETSCAN</key>
+	<string>yes</string>
+</dict>
+</plist>
